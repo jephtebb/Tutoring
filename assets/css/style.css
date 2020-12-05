@@ -52,27 +52,6 @@
   body {
     font-family: Helvetica, Arial, sans-serif;
   }
-  .header-nav li{
-    display: inline;
-  }
-  .header-nav li a{
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 22px;
-  }
-  .math-courses li{
-    display: inline;
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 22px;
-
-  }
-  .high-school-math{
-    padding: 10px 0;
-    display:flex;
-    justify-content: space-between;
-    background-color: rgb(92, 92, 145);
-  }
   .math-card{
     margin-top: 15px;
     display:flex;
